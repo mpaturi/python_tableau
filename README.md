@@ -7,3 +7,4 @@ This project first does a ETL of the dataset. In that process it handles any out
 1. For sessions - The number of occurrences of a user opening the app during the month. he sessions variable is a right-skewed distribution with half of the observations having 56 or fewer sessions. However, as indicated by the boxplot, some users have more than 700.
 ![](https://github.com/mpaturi/python_tableau/blob/main/images/sessions-boxplot.png?raw=true)
 ![](https://github.com/mpaturi/python_tableau/blob/main/images/sessions-histogram.png?raw=true)
+![](https://github.com/mpaturi/python_tableau/blob/main/images/TableauBoxPlot-Sessions.png)
