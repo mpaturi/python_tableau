@@ -3,5 +3,6 @@ This project first does a ETL of the dataset. In that process it handles any out
 
 
 # Attached are a few of the Boxplots and histograms
+[]:(https://github.com/mpaturi/python_tableau/blob/main/sessions-boxplot.png)
 # Products used Jupyter Lab, Pandas, Matplotlib, Seaborn, Tableau
 
