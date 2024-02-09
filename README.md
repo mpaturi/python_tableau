@@ -4,5 +4,5 @@ This project first does a ETL of the dataset. In that process it handles any out
 
 
 # Attached are a few of the Boxplots and histograms
-![](https://github.com/mpaturi/python_tableau/blob/main/images/sessions-boxplot.png)
+![](https://github.com/mpaturi/python_tableau/blob/main/images/sessions-boxplot.png?raw=true)
 
