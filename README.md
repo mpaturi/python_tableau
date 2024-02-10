@@ -8,4 +8,4 @@ This project first does a ETL of the dataset. In that process it handles any out
    
 ![](https://github.com/mpaturi/python_tableau/blob/main/images/sessions-boxplot.png?raw=true)
 ![](https://github.com/mpaturi/python_tableau/blob/main/images/sessions-histogram.png?raw=true)
-![](https://github.com/mpaturi/python_tableau/blob/main/images/TableauBoxPlot-Sessions.png)
+![](https://github.com/mpaturi/python_tableau/blob/main/images/TableauBoxPlot-Sessions.png?raw=true)
