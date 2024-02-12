@@ -6,7 +6,8 @@ This project first does a ETL of the dataset. In that process it handles any out
 # Attached is a sample of the Boxplot, histogram and a Tableau sheet for sessions column
 The Python analysis file is in Waze.ipnyb and contains all the other boxplots and histograms that analyzes the rest of the columns in the dataset
 The dataset itself is waze_dataset.csv
-1. For sessions - The number of occurrences of a user opening the app during the month. he sessions variable is a right-skewed distribution with half of the observations having 56 or fewer sessions. However, as indicated by the boxplot, some users have more than 700.
+
+Sample sessions column - The number of occurrences of a user opening the app during the month. he sessions variable is a right-skewed distribution with half of the observations having 56 or fewer sessions. However, as indicated by the boxplot, some users have more than 700.
    
 ![](https://github.com/mpaturi/python_tableau/blob/main/images/sessions-boxplot.png?raw=true)
 ![](https://github.com/mpaturi/python_tableau/blob/main/images/sessions-histogram.png?raw=true)
