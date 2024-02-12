@@ -3,7 +3,7 @@ This project first does a ETL of the dataset. In that process it handles any out
 
 
 
-# Attached is a sample of the Boxplot, histogram and a Tableau sheet for sessions column
+# Attached is a sample of the Boxplot, histogram and a Tableau sheet for sessions column. More details are in the Waze.ipynb file
 The Python analysis file is in Waze.ipnyb and contains all the other boxplots and histograms that analyzes the rest of the columns in the dataset
 The dataset itself is waze_dataset.csv
 
